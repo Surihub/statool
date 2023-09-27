@@ -9,11 +9,13 @@ The goal of statool is to analysis data with easy code for students.
 
 ## Installation
 
-You can install the development version of statool from [GitHub](https://github.com/) with:
+You can install the development version of statool from [GitHub](https://github.com/Surihub/statool) with:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("Surihub/statool")
+# CRAN not yet!
+install.packages("statool")
+# r-universe
+install.packages("statool", repos = "https://Surihub.r-universe.dev")
 ```
 
 ## Example
